@@ -33,6 +33,7 @@ package com.toy.anagrams.lib;
 
 /**
  * Implementation of the logic for the Anagram Game application.
+ * New comment line apparently :P
  */
 final class StaticWordLibrary extends WordLibrary {
 
